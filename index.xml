@@ -22,7 +22,5 @@ type="external">Creating new trees</fr:link></fr:li>
 href="http://www.jonmsterling.com/jms-007K.xml"
 type="external">Creating your personal biographical tree</fr:link></fr:li></fr:ul>
 
-  Hello <fr:link
-href="apl-0001"
-type="external">sailor</fr:link>!
+  Hello sailor!
 </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
