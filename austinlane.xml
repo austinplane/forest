@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>183</fr:anchor><fr:addr>austinlane</fr:addr><fr:route>austinlane.xml</fr:route><fr:title>Austin Lane</fr:title></fr:frontmatter><fr:mainmatter><fr:p>Researcher with formal background in polymer chemistry, semiconductor fabrication &amp; computer science. I received a PhD in Chemical Engineering (<fr:link
+href="https://repositories.lib.utexas.edu/items/a556c3df-ac76-4f48-8885-02032daf03f0"
+type="external">dissertation</fr:link>) from The University of Texas at Austin in 2017, as a student of <fr:link
+href="https://che.utexas.edu/people/faculty/willson"
+type="external">Prof. C. Grant Willson</fr:link>.</fr:p><fr:p>My professional experience includes 5 1/2 years at OculusFacebook/Meta Reality Labs, where I developed new polymeric films &amp; coatings for waveguide-based AR devices.</fr:p><fr:p>Currently, I am finishing my Masters in Computer Science at Georgia Tech (OMSCS) with a focus in Artificial Intelligence.</fr:p><fr:p>My publication record includes <fr:link
+href="https://scholar.google.com/citations?user=ncsiUn0AAAAJ&amp;hl=en"
+type="external">96 publications</fr:link>, including patents and conference presentations.</fr:p></fr:mainmatter><fr:backmatter><fr:contributions><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>179</fr:anchor><fr:addr>hello</fr:addr><fr:route>hello.xml</fr:route><fr:title>Hello, World!</fr:title><fr:authors><fr:author><fr:link
+href="austinlane.xml"
+type="local"
+addr="austinlane">Austin Lane</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>
+  Welcome to your first tree! This tree is the root of your forest.
+  <fr:ul><fr:li><fr:link
+href="http://www.jonmsterling.com/jms-007D.xml"
+type="external">Build and view your forest for the first time</fr:link></fr:li>
+    <fr:li><fr:link
+href="http://www.jonmsterling.com/jms-007N.xml"
+type="external">Overview of the Forester markup language</fr:link></fr:li>
+    <fr:li><fr:link
+href="http://www.jonmsterling.com/jms-007H.xml"
+type="external">Creating new trees</fr:link></fr:li>
+    <fr:li><fr:link
+href="http://www.jonmsterling.com/jms-007K.xml"
+type="external">Creating your personal biographical tree</fr:link></fr:li></fr:ul>
+
+  Hello sailor!
+</fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="true"><fr:frontmatter><fr:anchor>181</fr:anchor><fr:addr>home</fr:addr><fr:route>index.xml</fr:route><fr:title>Home</fr:title><fr:authors><fr:author><fr:link
+href="austinlane.xml"
+type="local"
+addr="austinlane">Austin Lane</fr:link></fr:author></fr:authors><fr:meta
+name="author">false</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Welcome to my portfolio page!</fr:p>
+  
+  <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>176</fr:anchor><fr:addr>austinlane</fr:addr><fr:route>austinlane.xml</fr:route><fr:title>About me - Austin Lane</fr:title></fr:frontmatter><fr:mainmatter><fr:p>Researcher with formal background in polymer chemistry, semiconductor fabrication &amp; computer science. I received a PhD in Chemical Engineering (<fr:link
+href="https://repositories.lib.utexas.edu/items/a556c3df-ac76-4f48-8885-02032daf03f0"
+type="external">dissertation</fr:link>) from The University of Texas at Austin in 2017, as a student of <fr:link
+href="https://che.utexas.edu/people/faculty/willson"
+type="external">Prof. C. Grant Willson</fr:link>.</fr:p><fr:p>My professional experience includes 5 1/2 years at OculusFacebook/Meta Reality Labs, where I developed new polymeric films &amp; coatings for waveguide-based AR devices.</fr:p><fr:p>Currently, I am finishing my Masters in Computer Science at Georgia Tech (OMSCS) with a focus in Artificial Intelligence.</fr:p><fr:p>My publication record includes <fr:link
+href="https://scholar.google.com/citations?user=ncsiUn0AAAAJ&amp;hl=en"
+type="external">96 publications</fr:link>, including patents and conference presentations.</fr:p></fr:mainmatter></fr:tree>
+</fr:mainmatter></fr:tree></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="true"><fr:frontmatter><fr:anchor>177</fr:anchor><fr:addr>home</fr:addr><fr:route>index.xml</fr:route><fr:title>Home</fr:title><fr:authors><fr:author><fr:link
+href="austinlane.xml"
+type="local"
+addr="austinlane">Austin Lane</fr:link></fr:author></fr:authors><fr:meta
+name="author">false</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Welcome to my portfolio page!</fr:p>
+  
+  <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>176</fr:anchor><fr:addr>austinlane</fr:addr><fr:route>austinlane.xml</fr:route><fr:title>About me - Austin Lane</fr:title></fr:frontmatter><fr:mainmatter><fr:p>Researcher with formal background in polymer chemistry, semiconductor fabrication &amp; computer science. I received a PhD in Chemical Engineering (<fr:link
+href="https://repositories.lib.utexas.edu/items/a556c3df-ac76-4f48-8885-02032daf03f0"
+type="external">dissertation</fr:link>) from The University of Texas at Austin in 2017, as a student of <fr:link
+href="https://che.utexas.edu/people/faculty/willson"
+type="external">Prof. C. Grant Willson</fr:link>.</fr:p><fr:p>My professional experience includes 5 1/2 years at OculusFacebook/Meta Reality Labs, where I developed new polymeric films &amp; coatings for waveguide-based AR devices.</fr:p><fr:p>Currently, I am finishing my Masters in Computer Science at Georgia Tech (OMSCS) with a focus in Artificial Intelligence.</fr:p><fr:p>My publication record includes <fr:link
+href="https://scholar.google.com/citations?user=ncsiUn0AAAAJ&amp;hl=en"
+type="external">96 publications</fr:link>, including patents and conference presentations.</fr:p></fr:mainmatter></fr:tree>
+</fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
