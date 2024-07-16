@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>188</fr:anchor><fr:addr>apl-0002</fr:addr><fr:route>apl-0002.xml</fr:route><fr:date><fr:year>2024</fr:year><fr:month>7</fr:month><fr:day>14</fr:day></fr:date></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="true"><fr:frontmatter><fr:anchor>186</fr:anchor><fr:addr>home</fr:addr><fr:route>index.xml</fr:route><fr:title>Home</fr:title><fr:authors><fr:author><fr:link
+href="austinlane.xml"
+type="local"
+addr="austinlane">Austin Lane</fr:link></fr:author></fr:authors><fr:meta
+name="author">false</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Welcome to my portfolio page!</fr:p><html:div
+xmlns:html="http://www.w3.org/1999/xhtml"
+style="white-space: pre-line;">To see a selection of my favorite projects, click <fr:link
+href="apl-0001.xml"
+type="local"
+addr="apl-0001">here</fr:link>.
+To see a complete list of projects, click <fr:link
+href="apl-0002.xml"
+type="local"
+addr="apl-0002">here</fr:link>.
+
+</html:div>
+  
+  
+  <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"><fr:frontmatter><fr:anchor>184</fr:anchor><fr:addr>austinlane</fr:addr><fr:route>austinlane.xml</fr:route><fr:title>About me - Austin Lane</fr:title></fr:frontmatter><fr:mainmatter><fr:p>Researcher with formal background in polymer chemistry, semiconductor fabrication &amp; computer science. I received a PhD in Chemical Engineering (<fr:link
+href="https://repositories.lib.utexas.edu/items/a556c3df-ac76-4f48-8885-02032daf03f0"
+type="external">dissertation</fr:link>) from The University of Texas at Austin in 2017, as a student of <fr:link
+href="https://che.utexas.edu/people/faculty/willson"
+type="external">Prof. C. Grant Willson</fr:link>.</fr:p><fr:p>My professional experience includes 5 1/2 years at OculusFacebook/Meta Reality Labs, where I developed new polymeric films &amp; coatings for waveguide-based AR devices.</fr:p><fr:p>Currently, I am finishing my Masters in Computer Science at Georgia Tech (OMSCS) with a focus in Artificial Intelligence.</fr:p><fr:p>My publication record includes <fr:link
+href="https://scholar.google.com/citations?user=ncsiUn0AAAAJ&amp;hl=en"
+type="external">96 publications</fr:link>, including patents and conference presentations.</fr:p><fr:p>In my spare time, I enjoy programming <fr:link
+href="https://heyaplane.github.io/index.xml"
+type="external">video games</fr:link>.</fr:p></fr:mainmatter></fr:tree>
+<html:small
+xmlns:html="http://www.w3.org/1999/xhtml">This site was built using <fr:link
+href="https://www.jonmsterling.com/jms-005P.xml"
+type="external">Forester</fr:link>. You can use Ctrl-K to open a search window.</html:small></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
